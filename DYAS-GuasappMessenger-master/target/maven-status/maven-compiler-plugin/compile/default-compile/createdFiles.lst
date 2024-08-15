@@ -1,0 +1,4 @@
+edu\unisabana\dyas\patterns\GuasappProgramLauncher.class
+edu\unisabana\dyas\patterns\util\proxyMessage.class
+edu\unisabana\dyas\patterns\util\MessageSender.class
+edu\unisabana\dyas\patterns\util\MessagingClient.class
